@@ -1,7 +1,8 @@
 # api_final
 Решения проектной задачи на реализацию REST API на django(django rest framework)
+
 По условию требуется использовать устаревший django и python(3.9)
-Протестировано но python3.10
+Протестировано на python3.10
 
 ## Setup
 ```bash
